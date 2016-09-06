@@ -1,9 +1,10 @@
 # ABBFMDBManagerKit
 
-##学习一下：
+## 使用方法：
 
-结合MJExtension解析数据，CoreModel操作表格的方法
+### 结合MJExtension解析数据，CoreModel操作表格的方法，实现从解析到存取操作服务
 
+***********
 
 # [MJExtension](https://github.com/CoderMJLee/MJExtension)
 
