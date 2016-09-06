@@ -9,8 +9,9 @@
 # [MJExtension](https://github.com/CoderMJLee/MJExtension)
 
 ### 解析数据<--->模型：
-      [MJExtension](https://github.com/CoderMJLee/MJExtension)  
-      安装：pod 'MJExtension'
+
+[MJExtension](https://github.com/CoderMJLee/MJExtension)  
+ 安装：pod 'MJExtension'
      
      
 - MJExtension是一套字典和模型之间互相转换的超轻量级框架
@@ -39,7 +40,7 @@
 
 ### 多层嵌套模型存取，增删改查，图片存取
 
-      下载：[CoreModel](https://github.com/CharlinFeng/CoreModel)
+下载：[CoreModel](https://github.com/CharlinFeng/CoreModel)
       
 * 全自动创表
 * 调试模式与非调试模式
